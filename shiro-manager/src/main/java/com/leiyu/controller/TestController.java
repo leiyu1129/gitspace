@@ -9,6 +9,7 @@ public class TestController {
         System.out.println("hot-fix branchs ...");
         System.out.println("master test ");
         System.out.println("hot-fix test 2");
+        System.out.println("push gitHub...");
 
     }
 }
