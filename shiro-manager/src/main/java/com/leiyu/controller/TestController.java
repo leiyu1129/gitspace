@@ -7,6 +7,7 @@ public class TestController {
         System.out.println("motify sencod");
         System.out.println("motify thrid");
         System.out.println("hot-fix branchs ...");
+        System.out.println("master test ");
 
     }
 }
